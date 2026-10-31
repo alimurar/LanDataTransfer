@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+.vscode/
+.idea/
+
+# Transfer klasorlerindeki gecici dosyalari git'e dahil etme
+Gelen_Dosyalar/*
+!Gelen_Dosyalar/.gitkeep
+
+Paylasilan_Dosyalar/*
+!Paylasilan_Dosyalar/.gitkeep
